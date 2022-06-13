@@ -1,2 +1,2 @@
 # HTML-CSS-e-JavaScript
-ProjetosBásicos com HTML/CSS e JavaScript
+Projects made with JavaScript and HTML/CSS
